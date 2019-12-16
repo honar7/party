@@ -1,4 +1,4 @@
-package com.raman.Party.exception;
+package com.raman.party.exception;
 
 public class ErrorDetails {
 }
